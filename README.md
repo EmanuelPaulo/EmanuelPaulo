@@ -1,6 +1,5 @@
-### Hi there! I'm Paulo Emanuel 👋
 
-I'm a Software Developer experienced in architecting and building ERP systems and complex RESTful API integrations. Currently, I act as the technical lead for my company's IT department, focusing on solving operational bottlenecks through scalable technology.
+###I'm a Software Developer experienced in architecting and building ERP systems and complex RESTful API integrations. Currently, I act as the technical lead for my company's IT department, focusing on solving operational bottlenecks through scalable technology.
 
 💻 **What I do today:**
 - Full-Stack application architecture using **PHP (Laravel)**, **React**, and **MySQL**.
